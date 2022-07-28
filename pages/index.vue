@@ -1,11 +1,12 @@
 <template>
 
     <div>
-        <demo></demo>
+        <demo/>
+        <!-- <demo></demo> -->
     </div>
 </template>
 
-<script setup>
+<!-- <script setup>
 // import demo from '~/components/demo.vue'
 import demo from '../components/demo.vue';
 definePageMeta({
@@ -13,4 +14,4 @@ definePageMeta({
         demo,
     }
 });
-</script>
+</script> -->

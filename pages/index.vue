@@ -7,7 +7,7 @@
 </template>
 
 
-<!-- Vue 2 syntax for importing any components -->
+<!-- remove Vue 2 syntax for importing any components -->
 <!-- <script setup>
 // import demo from '~/components/demo.vue'
 import demo from '../components/demo.vue';
